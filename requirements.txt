@@ -1,0 +1,224 @@
+absl-py==1.4.0
+aiohttp==3.9.3
+aiosignal==1.3.1
+anyio==4.1.0
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.1
+astunparse==1.6.3
+async-lru==2.0.4
+async-timeout==4.0.3
+attrs==23.1.0
+Babel==2.13.1
+beautifulsoup4==4.12.2
+bleach==6.1.0
+blosc2==2.5.1
+Brotli @ file:///C:/Windows/Temp/abs_63l7912z0e/croots/recipe/brotli-split_1659616056886/work
+cachetools==5.3.0
+catboost==1.2
+certifi==2022.12.7
+cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
+charset-normalizer==3.1.0
+clang==5.0
+cloudpickle==2.2.1
+cmake==3.26.3
+colorama==0.4.6
+comm==0.2.0
+contourpy==1.0.7
+cryptography @ file:///C:/b/abs_f4do8t8jfs/croot/cryptography_1694444424531/work
+cupy-cuda11x==13.0.0
+cycler==0.11.0
+debugpy==1.8.0
+decorator==5.1.1
+deepdish==0.3.7
+deeprobust==0.2.7
+defusedxml==0.7.1
+exceptiongroup==1.2.0
+executing==2.0.1
+fastjsonschema==2.19.0
+fastrlock==0.8.2
+filelock==3.12.0
+flatbuffers==1.12
+fonttools==4.39.3
+fqdn==1.5.1
+frozenlist==1.4.1
+fsspec==2024.3.1
+future @ file:///C:/b/abs_3dcibf18zi/croot/future_1677599891380/work
+gast==0.4.0
+gensim @ file:///C:/b/abs_a5vat69tv8/croot/gensim_1674853640591/work
+google-auth==2.17.3
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+graphviz==0.20.1
+grpcio==1.54.0
+gudhi==3.9.0
+h5py==3.1.0
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+imageio==2.33.1
+importlib-metadata==6.6.0
+importlib-resources==5.12.0
+ipykernel==6.27.1
+ipython==8.18.1
+ipywidgets==8.1.1
+isoduration==20.11.0
+jedi==0.19.1
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+joblib==1.2.0
+json5==0.9.14
+jsonpointer==2.4
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.2
+jupyter==1.0.0
+jupyter-console==6.6.3
+jupyter-events==0.9.0
+jupyter-lsp==2.2.1
+jupyter_client==8.6.0
+jupyter_core==5.5.0
+jupyter_server==2.11.1
+jupyter_server_terminals==0.4.4
+jupyterlab==4.0.9
+jupyterlab-widgets==3.0.9
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.2
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.4.4
+lazy_loader==0.3
+lit==16.0.3
+llvmlite==0.40.0
+lxml==5.2.1
+Markdown==3.4.3
+MarkupSafe==2.1.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+mistune==3.0.2
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+mkl-service==2.4.0
+modules==1.0.0
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+msgpack==1.0.8
+multidict==6.0.5
+nbclient==0.9.0
+nbconvert==7.11.0
+nbformat==5.9.2
+ndindex==1.8
+nest-asyncio==1.5.8
+networkx==2.8.8
+nibabel==5.2.0
+nilearn==0.10.3
+notebook==7.0.6
+notebook_shim==0.2.3
+numba==0.57.0
+numexpr==2.10.0
+numpy==1.24.3
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-nvtx-cu11==11.7.91
+oauthlib==3.2.2
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+opt-einsum==3.3.0
+overrides==7.4.0
+packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
+pandas==2.0.1
+pandocfilters==1.5.0
+parso==0.8.3
+Pillow==9.5.0
+platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+plotly==5.14.1
+ply==3.11
+pooch @ file:///C:/b/abs_a8nmng7d_x/croot/pooch_1695850149827/work
+prometheus-client==0.19.0
+prompt-toolkit==3.0.41
+protobuf==4.22.4
+psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
+pure-eval==0.2.2
+py-cpuinfo==9.0.0
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycocotools==2.0.7
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.17.2
+pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+pyparsing==3.0.9
+PyPrind==2.11.3
+PyQt5==5.15.10
+PyQt5-sip @ file:///C:/b/abs_c0pi2mimq3/croot/pyqt-split_1698769125270/work/pyqt_sip
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-dateutil==2.8.2
+python-json-logger==2.0.7
+pytz==2023.3
+pywin32==306
+pywinpty==2.0.12
+PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+pyzmq==25.1.1
+qtconsole==5.5.1
+QtPy==2.4.1
+referencing==0.31.1
+requests==2.30.0
+requests-oauthlib==1.3.1
+retrying==1.3.4
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rpds-py==0.13.2
+rsa==4.9
+scikit-image==0.22.0
+scikit-learn==1.2.2
+scipy==1.10.1
+Send2Trash==1.8.2
+shap==0.41.0
+sip @ file:///C:/b/abs_edevan3fce/croot/sip_1698675983372/work
+six==1.16.0
+slicer==0.0.7
+smart-open @ file:///C:/ci/smart_open_1651235069716/work
+sniffio==1.3.0
+soupsieve==2.5
+stack-data==0.6.3
+sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
+tables==3.9.2
+tabulate==0.9.0
+tenacity==8.2.2
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+tensorflow-estimator==2.15.0
+tensorflow-gpu==2.6.0
+termcolor==1.1.0
+terminado==0.18.0
+threadpoolctl==3.1.0
+tifffile==2023.12.9
+tinycss2==1.2.1
+tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
+torch==2.0.0+cu118
+torch-cluster @ file:///D:/torch_cluster-1.6.1%2Bpt20cu118-cp39-cp39-win_amd64.whl#sha256=4a1b50157e241c123c82acd5688f4d0028777fd31994b330f151f557ae31ae35
+torch-scatter @ file:///D:/torch_scatter-2.1.1%2Bpt20cu118-cp39-cp39-win_amd64.whl#sha256=669c4f460c57ed8919ab647e0836cc45cbca5b488b88380547cde658cc6a06ef
+torch-sparse @ file:///D:/torch_sparse-0.6.17%2Bpt20cu118-cp39-cp39-win_amd64.whl#sha256=60bd0bcdc2c47a32b8a5674d0a9e257b8e88a3e99d621c03f3f966dfc8311e38
+torch-spline-conv @ file:///D:/torch_spline_conv-1.2.2%2Bpt20cu118-cp39-cp39-win_amd64.whl#sha256=5e230b4d2461fbe75f04a0d33c36c71d15336d839995f3c93cea2f57b983d33d
+torch_geometric==2.5.2
+torchaudio==2.0.1
+torchvision==0.15.1+cu118
+tornado==6.4
+tqdm==4.65.0
+traitlets==5.14.0
+types-python-dateutil==2.8.19.14
+typing_extensions==4.5.0
+tzdata==2023.3
+uri-template==1.3.0
+urllib3==2.0.2
+wcwidth==0.2.12
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.6.4
+Werkzeug==2.3.3
+widgetsnbextension==4.0.9
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
+wrapt==1.12.1
+yarl==1.9.4
+zipp==3.15.0
